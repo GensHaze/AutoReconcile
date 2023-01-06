@@ -4,7 +4,7 @@
 )
 
 Clear-Host
-
+'a'
 #region ----- Module loading
 $ErrorActionPreference = 'Stop'
 $scriptPath  = $PSScriptRoot
